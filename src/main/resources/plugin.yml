@@ -1,0 +1,6 @@
+name: BlockEffects
+version: ${project.version}
+main: me.lojosho.blockeffects.BlockEffects
+api-version: 1.16
+authors: [ LoJoSho ]
+description: Some Blocks give off effects when players stand on them
